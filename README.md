@@ -3,7 +3,7 @@ Shooting Game
 
 Play Video
 <br>
-<iframe width="100%" height="600" src="https://youtu.be/7j0gP-ht8uQ" frameborder="0" allowfullscreen></iframe>
+{% include youtubeplayer.html id="7j0gP-ht8uQ" %}
 
 <br>
 
